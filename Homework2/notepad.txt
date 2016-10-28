@@ -1,0 +1,31 @@
+1. What is clone, commit and push?
+
+
+site: https://git-scm.com/docs/git-commit
+
+A: Clone:
+
+Clone is to download the whole code of the repository or creating a local copy of the code provided by the developer. So, that we can edit and use this code.
+
+Commit:
+Adding changes to the local repository or
+Make a new commit. Takes into account only the staged files.
+
+
+ii) It commit the files that are staged in the local repo.
+
+Push:
+To transfer the last commit to the remote server.
+
+otherway it update the remote repository with your local changes. or it syncs local repository with its associated remote repository.
+
+ii) It merge the master branch of local side with the remote master branch.
+
+push : local to remote and pull: remote to local.
+
+
+
+2. Local Repository and Remote Repository?
+
+A: We will commit the code to local repository from the workspace. 
+Then push the code from local repository to remote repository

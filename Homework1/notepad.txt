@@ -1,0 +1,65 @@
+1) what is a repository and why do we need to use it?
+
+A: A repository is a location where all the files of a particular project are stored. Each project has its own repository and can be accessed by a unique URL.
+
+
+2) What is git and why we use it?
+
+A: Git is a software and it keeps track of files that we make changes to repositories and directories. It is a version control system and it store the modifications in a central repository. This allows developers to collaborate as they can download a new version of software, make changes, and upload the newest revision. Every developer can see new changes, download them and contribute.
+Other than developers also can use these files by downloading them.
+
+i) it keeps track of changes
+- version 1, version 2, version 3
+ii) version control system(VCS) used for source code management tools. 
+it is used for managing source code.
+
+
+3) What is github and why we use it?
+
+A: Through Github, developers can store their projects and networks with the people they are willing to.
+
+In this github there is repository that stores the projects of developers and can be accesses by using a unique URL. 
+
+Forking repo:
+
+A new project is created based off of another project that already exists and in github we can find this kind of projects and if we fork a repo, we can add a new version, make the changes that we would like to and release the revised version of the new project. And these changes get updated to the original project.
+
+Pull requests:
+
+It means that if we fork a repository and want that project maintainer to recoginize our latest update to that original project of him. So to make a communication or to make him recognize our work is made by pull request through github.
+
+Social Networking:
+
+The social networking of github make lots of developers to collaborate and that allows projects to grow more than anything else. Each user on github has their own profile and that acts like resume of sorts, showing our past work and contibutions to other projects via pull requests.
+
+With the help of social networking huge number of developers can collaborate and discuss on the revision of the project and this helps advance in the project forward. 
+
+Changelogs:
+
+On one project there will be a lot of developers colloborating. So it keeps track of revisions made to the project when pushed to the repository.
+
+
+Github is used for all types of files and for example if our project team wants to update the document constantly then to use github is a better approach as it is a version control system.
+
+
+4) What is the difference between git and github?
+
+A: Git is a single command line tool. Whereas github has the much a like git. But the things revolve around github are like 
+i) Repository
+ii) Forking Repo
+iii) pull request
+iv) Social Networking
+v) Changelogs
+
+
+5) What is source tree and why do we use it?
+A: It is a Git client and to avoid command line we use source tree.
+
+
+
+
+
+
+
+
+
