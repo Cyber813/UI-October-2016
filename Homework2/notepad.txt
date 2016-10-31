@@ -29,3 +29,22 @@ push : local to remote and pull: remote to local.
 
 A: We will commit the code to local repository from the workspace. 
 Then push the code from local repository to remote repository
+
+
+3. merge conflicts? how to create them? how to resolve them?
+A: When ever you push your code or pull the other person code then merge conflicts may arise.
+When 2 developers change same line of code and are trying to push changes
+<<<<< HEAD
+your code
+=============
+
+other person code
+>>>>>>>>> number
+
+How to resolve a merge conflict ?
+1. remove 
+<<<<< HEAD
+2. =============
+3. >>>>>>>>> number
+4. stage changes 
+5. push

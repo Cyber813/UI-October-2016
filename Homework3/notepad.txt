@@ -1,0 +1,69 @@
+Question1 : How to create a html document?
+A: There are HTML editors like Brackets, Atom, Sublime 
+
+But it is prefered to start with the notepad or text editor and save the file in .html extension and open in a browser.
+
+Question2 : What is element?
+A: 
+An HTML element is defined by a starting tag and if it contains another element then it has an ending tag. 
+
+Example: <p> This is a para1 </p>
+
+From the above example it contains a staring tag and it is preceded by the content followed by end tag.
+
+Question3: What is attribute?
+A: It is additional information added to the tag or an element. Elements in HTML can have the attributes. It is always specified in a attributeName = "AttributeValue" in the start tag.
+
+<p href="www.google.com"> Go to Google </p>
+
+
+
+Question4: Parent element and child elements?
+A: 
+Parent Element : In HTML, the document itself is the parent node of the HTML element, HEAD and BODY are the child nodes of the HTML element.
+
+
+Question5: Versions of html(4,5)? Release dates
+A: HTML 5  = 2014
+   HTML 4  = 1999
+
+Question6: changes between html 4 and html 5?
+A: 
+HTML 5 is revised version of HTML4
+1. Specification of HTML5 is to replace HTML4, XHTML1.0 and Dom level2
+2. It contains detail parsing role.
+3. It is in DOCTYPE and character encoding would be easy compared to the HTML 4 as we use multiple doctypes where as in HTML 5 we use only a single DOCTYPE that declares a DOCTYPE in a HTML. 
+5. character encoding also introduces meta tag
+6. It introduces new elements like article, aside, audio, canvas, command, datalist, details, embed, figcaption, figure, footer, header, hgroup, keygen, mark, meter, nav, output, progress, rp, ruby, section, source, summary, time, video. where some of these elements in HTML5 are declared as an attribute values in HTML4. It adds the additional meaning to the element
+7. Forms in HTML5 are 2.0 specification introduces the new form control and input types which are more powerful and more compiling user experience.
+8. Date pickers, color pickers , and numeric stepper controls added, and also the input field types now include email, search and url. It also add PUT and DELETE. 
+9. It got API's which make developing web applications easier across multiple devices. It include AUDIO and VIDEO, offline apps 
+10. It also adds drag and drop.
+
+
+
+
+Question6: Why do we need to use HTML?
+A:
+1. It will take up less space, speedier to download
+2. HTML is easier to learn, if HTML tags still off , the code can still work
+3. It is used to navigate the Internet.
+4. It is used to create a Web document.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+site1: https://www.w3.org/TR/2011/WD-html5-diff-20110113/
+site2: http://stackoverflow.com/questions/134727/whats-the-key-difference-between-html-4-and-html-5
+site3: http://webdesign.about.com/od/xhtml/a/aa011507.htm
+site4: http://www.yourhtmlsource.com/starthere/whatishtml.html
